@@ -3,7 +3,7 @@ This repository contains the supplementary source code and a sample dataset for 
 
  System Requirements
 The code has been developed and thoroughly tested in the following environment:
-OS: Windows Subsystem for Linux 2 (WSL2) - Ubuntu
+OS: Windows Subsystem for Linux 2 (WSL2) - Ubuntu 
 Python: 3.8
 CUDA Toolkit:** 11.8 
 Hardware Acceleration: NVIDIA RTX GPU (Tested on RTX 4060)
